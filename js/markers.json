@@ -1,0 +1,15 @@
+//json markers
+       var pizza_markers = [
+       {'name':'Dobson Road','lat':53.828228,'lng':-3.006300, 'status':'show'},
+       {'name':'Duchy Avenue','lat':50.418388,'lng':-5.051329, 'status': 'show'},
+       {'name':'Crown Street, Brentwood','lat':51.618882,'lng':0.300968, 'status': 'show'},
+       {'name':'Abbey Road','lat':51.531955,'lng':-0.177521, 'status': 'show'},
+       {'name':'Gladwin Road','lat':51.878995,'lng':0.882881, 'status': 'show'},
+       {'name':'Moormill','lat':54.904341,'lng':-1.619049, 'status': 'show'},
+       {'name':'Verwood Close','lat':51.288635,'lng':1.069634, 'status': 'show'},
+       {'name':'Garlic Row','lat':52.213488,'lng':0.148674, 'status': 'show'},
+       {'name':'Greville Street','lat':53.456195,'lng':-2.207781, 'status': 'show'},
+       {'name':'Flower Road','lat':52.206412,'lng':-1.710799, 'status': 'show'},
+       {'name':'Bolehill Lane','lat':53.386370,'lng':-1.513077, 'status': 'show'},
+       {'name':'Womanby Street','lat':51.480380,'lng':-3.181596, 'status': 'show'}
+       ];
